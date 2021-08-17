@@ -1,4 +1,7 @@
 <h1 align="center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
   #Project name
 </h1>
 <h3 align="center">
@@ -32,6 +35,19 @@ Licensed under the [MIT License](./LICENSE).
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/gfdias"><img src="https://avatars.githubusercontent.com/u/5095726?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gonçalo Dias</b></sub></a><br /><a href="https://github.com/xgeekshq/oss-template/commits?author=gfdias" title="Documentation">📖</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <table>
