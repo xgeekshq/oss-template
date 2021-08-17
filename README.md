@@ -13,11 +13,10 @@
 
 ## Table of Contents
 
-- [Table of Contents](#table-of-contents)
-- [❗ Code of Conduct](#-code-of-conduct)
-- [🙌🏻 How to Contribute](#-how-to-contribute)
-- [📝 License](#-license)
-- [Contributors ✨](#contributors-)
+- [Code of Conduct](#-code-of-conduct)
+- [How to Contribute](#-how-to-contribute)
+- [License](#-license)
+- [Contributors](#contributors-)
 
 ## ❗ Code of Conduct
 
