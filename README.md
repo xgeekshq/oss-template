@@ -1,12 +1,3 @@
-<div style="padding-top: 30px;padding-bottom: 10px;background:#001529;">
-<p align="center">
-  <a href="https://www.xgeeks.io/">
-    <img alt="xgeeks" src="https://www.xgeeks.io/assets/xgeeks_logo_white.svg" style="height:30px;align:center";>
-  </a>
-</p>
-<p style="color:white;text-align:center;">xgeeks Open Source</p>
-</div>
-<br>
 <h1 align="center">
   #Project name
 </h1>
@@ -51,3 +42,11 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 [coc]: https://github.com/xgeekshq/oss-template/blob/main/CODE_OF_CONDUCT.md
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
 <!-- prettier-ignore-end -->
+
+------------------------------------------------------------------------------------------------------
+<p align="center">
+  <a align="center" href="https://www.xgeeks.io/">
+    <img alt="xgeeks" src="https://github.com/xgeekshq/oss-template/blob/main/.github/IMAGES/xgeeks_Logo_Black.svg" width="100">
+  </a>
+</p>
+<h4 align="center">xgeeks Open Source</h4>
