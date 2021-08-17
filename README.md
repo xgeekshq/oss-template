@@ -1,7 +1,4 @@
 <h1 align="center">
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
   #Project name
 </h1>
 <h3 align="center">
@@ -16,9 +13,11 @@
 
 ## Table of Contents
 
-- [How to Contribute](#-how-to-contribute)
-- [License](#memo-license)
-- [Contributors](#contributors)
+- [Table of Contents](#table-of-contents)
+- [❗ Code of Conduct](#-code-of-conduct)
+- [🙌🏻 How to Contribute](#-how-to-contribute)
+- [📝 License](#-license)
+- [Contributors ✨](#contributors-)
 
 ## ❗ Code of Conduct
 
@@ -47,12 +46,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<table>
-
-</table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
