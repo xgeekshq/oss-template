@@ -4,7 +4,17 @@
   ],
   "imageSize": 50,
   "commit": false,
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "gfdias",
+      "name": "Gonçalo Dias",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5095726?v=4",
+      "profile": "https://github.com/gfdias",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "projectName": "oss-template",
   "projectOwner": "xgeekshq",
